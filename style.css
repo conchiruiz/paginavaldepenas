@@ -1,0 +1,52 @@
+body{
+    font-family: petrona, sans-serif;
+    background-image: url(imagenes/corchos.jpg);
+
+}
+h1{
+ 
+    text-align:center;
+}
+
+
+nav ul{
+
+/**/
+   }
+    
+nav li{
+    display:inline-block;
+    text-align:center;
+    background-color:burlywood;
+    padding:8px;
+    width:25%;  
+    margin-top:10px;
+    margin-left:60px;
+}
+
+.centrado{
+    margin:10px auto;
+    display:block;
+}
+.cuerpo{
+    background-color:burlywood;
+    padding:12px;
+    text-align:center;
+    width:75%;
+    margin-left:150px;
+    margin-top:15px;
+}
+    
+.galeria{
+
+    text-align:center;
+    background-color: burlywood;
+    margin-top:50px;em;
+   
+ }   
+
+footer{
+    text-align:center;
+    font-size:150%;
+    background-color: burlywood;
+}
