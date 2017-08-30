@@ -9,6 +9,7 @@ h1{
 }
 
 
+
 nav ul{
 
 /**/
@@ -42,11 +43,14 @@ nav li{
     text-align:center;
     background-color: burlywood;
     margin-top:50px;em;
-   
+    margin-left: 150px;
+    margin-right:150px;
  }   
 
 footer{
     text-align:center;
     font-size:150%;
     background-color: burlywood;
+    margin-left: 150px;
+    margin-right:150px;
 }
